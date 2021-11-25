@@ -1,0 +1,3 @@
+bauxite
+iron
+copper
